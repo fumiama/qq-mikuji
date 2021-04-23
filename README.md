@@ -1,4 +1,3 @@
-> 参见[GitHub](https://github.com/SakuraACGN/qq-mikuji)
 # qq-mikuji QQ抽签
 利用QQ群成员截图进行抽签，生成成员的数字顺序
 # 要求
